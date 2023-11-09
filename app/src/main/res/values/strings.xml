@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Aplikasi Daftar Sampah</string>
+    <string name="namaS">Nama Sampah</string>
+    <string name="deskripsi">Deskripsi Sampah</string>
+    <string-array name="data_namaS">
+        <item>Sampah Botol</item>
+        <item>Sampah Buah</item>
+        <item>Sampah Elektronik</item>
+        <item>Sampah Kaleng</item>
+        <item>Sampah Kertas</item>
+        <item>Sampah Medis</item>
+        <item>Sampah Minyak</item>
+        <item>Sampah Rokok</item>
+    </string-array>
+    <string-array name="data_deskripsi">
+        <item>
+            Sampah botol adalah sampah yang berasal dari botol plastik atau kaca yang sudah tidak terpakai. Sampah botol dapat menjadi masalah lingkungan karena dapat mencemari tanah dan air. Sampah botol dapat didaur ulang menjadi produk baru, seperti botol baru, serat tekstil, atau bahan bangunan.
+        </item>
+        <item>
+            Sampah buah adalah sampah yang berasal dari buah-buahan yang sudah tidak terpakai. Sampah buah dapat menjadi masalah lingkungan karena dapat membusuk dan menghasilkan gas metana, yang merupakan gas rumah kaca yang dapat menyebabkan pemanasan global. Sampah buah dapat dikomposkan menjadi pupuk organik.
+        </item>
+        <item>
+            Sampah elektronik adalah sampah yang berasal dari peralatan elektronik, seperti komputer, televisi, dan telepon seluler. Sampah elektronik dapat menjadi masalah lingkungan karena mengandung bahan berbahaya, seperti merkuri, timbal, dan kadmium. Sampah elektronik harus dikelola dengan hati-hati untuk menghindari pencemaran lingkungan.
+        </item>
+        <item>
+            Sampah kaleng adalah sampah yang berasal dari kaleng, seperti kaleng minuman dan makanan. Sampah kaleng dapat menjadi masalah lingkungan karena dapat mencemari tanah dan air. Sampah kaleng dapat didaur ulang menjadi produk baru, seperti kaleng baru, baja, atau aluminium.
+        </item>
+        <item>
+            Sampah kertas adalah sampah yang berasal dari kertas, seperti kertas bekas, koran, dan majalah. Sampah kertas dapat menjadi masalah lingkungan karena dapat mencemari tanah dan air. Sampah kertas dapat didaur ulang menjadi produk baru, seperti kertas baru, karton, atau bahan bangunan.
+        </item>
+        <item>
+            Sampah medis adalah sampah yang berasal dari peralatan dan bahan medis, seperti jarum suntik, obat-obatan, dan bahan kimia. Sampah medis dapat menjadi masalah lingkungan karena mengandung bahan berbahaya, seperti jarum suntik yang dapat menyebabkan infeksi. Sampah medis harus dikelola dengan hati-hati untuk menghindari pencemaran lingkungan.
+        </item>
+        <item>
+            Sampah minyak adalah sampah yang berasal dari minyak, seperti minyak goreng, oli, dan bensin. Sampah minyak dapat menjadi masalah lingkungan karena dapat mencemari tanah dan air. Sampah minyak dapat didaur ulang menjadi produk baru, seperti bahan bakar, aspal, atau plastik.
+        </item>
+        <item>
+            Sampah rokok adalah sampah yang berasal dari rokok, seperti puntung rokok, filter rokok, dan kemasan rokok. Sampah rokok dapat menjadi masalah lingkungan karena dapat mencemari tanah dan air. Sampah rokok dapat didaur ulang menjadi produk baru, seperti bahan bangunan, pupuk, atau arang.
+        </item>
+    </string-array>
+    <integer-array name="data_foto">
+        <item>@drawable/smph_botol</item>
+        <item>@drawable/smph_buah</item>
+        <item>@drawable/smph_electronic</item>
+        <item>@drawable/smph_kaleng</item>
+        <item>@drawable/smph_kertas</item>
+        <item>@drawable/smph_medis</item>
+        <item>@drawable/smph_minyak</item>
+        <item>@drawable/smph_rokok</item>
+    </integer-array>
+</resources>
